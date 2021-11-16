@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Daniele Sagnotti CV
 ---
 # Isaac Newton
 Physicist, Mathematician, Cambridge professor.
