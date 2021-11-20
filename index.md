@@ -1,5 +1,6 @@
 ---
 layout: cv
+
 title: Daniele Sagnotti
 ---
 # Daniele Sagnotti
